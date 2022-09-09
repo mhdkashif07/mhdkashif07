@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 ![dex coder stats](https://github-readme-stats.vercel.app/api?username=dex-coder&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
