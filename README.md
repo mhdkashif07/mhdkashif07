@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dex-coder&theme=dark&background=000000)](https://git.io/streak-stats)
+![dex coder stats](https://github-readme-stats.vercel.app/api?username=dex-coder&theme=dark&show_icons=true)
