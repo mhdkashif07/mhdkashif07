@@ -50,6 +50,12 @@ I am a Fronted Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 </div>
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-4287f5?style=flat-square&logo=tailwindcss)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ### :fire: My Stats :
