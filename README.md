@@ -44,10 +44,12 @@ I am a Fronted Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
-   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" title="Heroku" alt="Heroku" width="80" height="40"/>&nbsp;
-   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Nextjs" alt="Nextjs" width="80" height="40"/>&nbsp;
+   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" title="Heroku" alt="Heroku"  height="40"/>&nbsp;
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Nextjs" alt="Nextjs"  height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify" title="Netlify" alt="Netlify"  height="40"/>&nbsp;
+
+
 </div>
 
 
