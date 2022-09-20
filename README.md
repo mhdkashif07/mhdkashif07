@@ -54,14 +54,14 @@ I am a Fronted Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ### :fire: My Stats :
-![dex coder stats](https://github-readme-stats.vercel.app/api?username=dex-coder&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dex-coder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![dex coder stats](https://github-readme-stats.vercel.app/api?username=mhdkashif07&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdkashif07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 &nbsp; How to reach me:
 
 <div id="header"> 
   <div id="badges">
-  <a href="https://www.linkedin.com/in/muhammadkashif07/">
+  <a href="https://www.linkedin.com/in/mhdkashif07/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href="mailto:dexcoder7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
@@ -69,4 +69,4 @@ I am a Fronted Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 </div>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=dex-coder)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mhdkashif07)
