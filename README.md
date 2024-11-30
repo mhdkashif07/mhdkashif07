@@ -1,7 +1,7 @@
 ### Hi there 👋I'm Muhammad Kashif
 
 # 💫 About Me:
-My name is Muhammad Kashif. I'm a Fullstack Developer. I did BS Software Engineering and have 3+ years of experience in developing JavaScript high performance web applications and services. My skill set include, but not limited to, ReactJS, NextJS, NodeJS, ExpressJs, MongoDb, Javascript, HTML, CSS, Bootstrap, Redux, Firebase, Test Driven Development and Product Design.
+I’m Muhammad Kashif, a Full-Stack Developer with a BS in Software Engineering and 3+ years of experience building high-performance web applications. My expertise includes ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, JavaScript, HTML, CSS, Redux, Firebase, TDD, and Product Design, delivering scalable and user-focused solutions.
 
 
 ## 🌐 Socials:
