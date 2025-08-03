@@ -45,9 +45,6 @@ I specialize in delivering scalable, user-focused solutions with clean code and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdkashif07&theme=radical" alt="mhdkashif07" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mhdkashif07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Connect With Me
 
 <div id="badges">
