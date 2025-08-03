@@ -10,7 +10,7 @@ Full-Stack Developer | Software Engineer | Building scalable web applications wi
 
 <div align="center">
   <!-- Updated stats widgets with refresh -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?mhdkashif07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mhdkashif07's stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhdkashif07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mhdkashif07's stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdkashif07&layout=compact&langs_count=8&theme=radical&cache_seconds=86400" alt="mhdkashif07's top languages" />
 </div>
