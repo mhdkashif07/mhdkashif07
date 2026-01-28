@@ -19,7 +19,3 @@ Full-Stack Developer | Software Engineer | Building scalable web applications wi
   <!-- Streak stats with forced refresh -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdkashif07&theme=radical&date_format=j%20M%5B%20Y%5D&include_all_commits=true&count_private=true" alt="mhdkashif07's streak" />
 </div>
-
-## 🔥 Recent Activity
-<!-- GitHub Readme Activity Graph - Updates more frequently -->
-[![mhdkashif07's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhdkashif07&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
